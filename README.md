@@ -9,5 +9,6 @@
        
    *  #### Cultural Algorithm
         Cultural Algorithms combine the concepts of evolutionary algorithms and cultural evolution to enhance optimization performance.
-   *    Genetic Algorithm
-
+   *  #### Genetic Algorithm
+         Genetic Algorithms (GAs) are powerful optimization algorithms that mimic the process of natural evolution such as Crossover, Mutation to find optimal solutions. Using Python, define the fitness function and adjust the parameters like
+      population size, crossover rate, mutation rate, and iteration count.
