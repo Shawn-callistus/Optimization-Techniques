@@ -3,7 +3,8 @@
 
 * ### Implementation of Neural networks using Keras on the given dataset along with the following optimisations algorithms
    *  ####  Ant Colony Optimisation
-         Ant Colony Optimization (ACO) is a powerful algorithm for solving complex optimization problems. It is inspired by the way ants find the shortest path between their nest and a food source by depositing and following pheromone trails. 
+         Ant Colony Optimization (ACO) is a powerful algorithm for solving complex optimization problems. It is inspired by the way ants find the shortest path between their nest and a food source by depositing and following pheromone trails. Using Python, adjust parameters like the number of ants, pheromone evaporation rate, and iteration count.
+      
    *   #### Paricle Swarm Optimisation
        Particle Swarm Optimization (PSO) is a heuristic optimization algorithm that mimics the movement of particles in a search space to find optimal solutions.Using Python, customize the initialization strategy for particle positions and velocities and adjust parameters like swarm size, velocity coefficients, and iteration count.
        
