@@ -1,4 +1,4 @@
-## DAA
+## Design and Analysis of Algorithms
 * ### Needleman Wunsch Algorithm
 
 * ### Implementation of Neural networks using Keras on the given dataset along with the following optimisations algorithms
