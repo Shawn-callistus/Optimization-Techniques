@@ -3,8 +3,8 @@
 
 * ### Implementation of Neural networks using Keras on the given dataset along with the following optimisations algorithms
    *  ####  Ant Colony Optimisation
-         It is a metaheuristic optimization algorithm inspired by the behavior of ants. It is commonly used to solve combinatorial optimization problems like the Traveling Salesman Problem (TSP), the job shop scheduling problem, the vehicle routing problem, and the Knapsack problem.
-   *    Paricle Swarm Optimisation
+         Ant Colony Optimization (ACO) is a powerful algorithm for solving complex optimization problems. It is inspired by the way ants find the shortest path between their nest and a food source by depositing and following pheromone trails. This repository provides a Python implementation of the ACO algorithm, which can be adapted for various optimization tasks.
+   *   #### Paricle Swarm Optimisation
    *    Cultural Algorithm
    *    Genetic Algorithm
 
