@@ -8,7 +8,7 @@
        Particle Swarm Optimization (PSO) is a heuristic optimization algorithm that mimics the movement of particles in a search space to find optimal solutions.
        
    *  #### Cultural Algorithm
-        Cultural Algorithms combine the concepts of evolutionary algorithms and cultural evolution to enhance optimization performance. Using Python, Customize the cultural algorithm's knowledge sources and beliefs
+        Cultural Algorithms combine the concepts of evolutionary algorithms and cultural evolution to enhance optimization performance.Using Python, Customize the cultural algorithm's knowledge sources and beliefs
    *  #### Genetic Algorithm
          Genetic Algorithms (GAs) are powerful optimization algorithms that mimic the process of natural evolution such as Crossover, Mutation to find optimal solutions. Using Python, define the fitness function and adjust the parameters like
       population size, crossover rate, mutation rate, and iteration count.
